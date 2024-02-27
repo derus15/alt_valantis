@@ -1,0 +1,11 @@
+.Container {
+    display: flex;
+    width: 100%;
+    justify-content: center;
+    gap: 10px;
+    margin-top: 25px;
+}
+
+.pageCounter {
+    font-size: 25px;
+}
